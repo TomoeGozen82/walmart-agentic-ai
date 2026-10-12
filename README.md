@@ -1,7 +1,7 @@
 # Walmart Smart Inventory and Restocking Assistant
 
-![CI](https://github.com/ShreyasThakur11/walmart-agentic-ai/actions/workflows/ci.yml/badge.svg)
-![Chatbot](https://github.com/ShreyasThakur11/walmart-agentic-ai/actions/workflows/chatbot.yml/badge.svg)
+![CI](https://github.com/TomoeGozen82/walmart-agentic-ai/actions/workflows/ci.yml/badge.svg)
+![Chatbot](https://github.com/TomoeGozen82/walmart-agentic-ai/actions/workflows/chatbot.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.12%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -91,7 +91,7 @@ reads and extends, so each run carries a complete, inspectable audit trail.
 ## Quick start
 
 ```bash
-git clone https://github.com/ShreyasThakur11/walmart-agentic-ai.git
+git clone https://github.com/TomoeGozen82/walmart-agentic-ai.git
 cd walmart-agentic-ai
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
